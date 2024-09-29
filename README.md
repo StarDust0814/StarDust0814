@@ -5,7 +5,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,14 +56,6 @@ GitIgnore file           0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 IntelliJ IDEA            2 hrs 21 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-yuoj-code-sandbox        56 mins             ██████████░░░░░░░░░░░░░░░   39.92 % 
-yuoj-code-sandbox-master 55 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
-yuoj-backend             29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-
-💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,5 +75,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2024 09:53:03 UTC
+ Last Updated on 29/09/2024 18:40:14 UTC
 <!--END_SECTION:waka-->

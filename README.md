@@ -62,3 +62,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
  Last Updated on 29/09/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarDust0814)](https://github.com/StarDust0814/github-readme-stats&count_private=true&hide=stars,issues)

@@ -13,8 +13,6 @@
 
 > 📦 468.3 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -48,13 +46,10 @@ Sunday                   145 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   98.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,6 +69,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 18:42:43 UTC
+ Last Updated on 04/10/2024 18:42:34 UTC
 <!--END_SECTION:waka-->
 

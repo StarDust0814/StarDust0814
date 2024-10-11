@@ -13,8 +13,6 @@
 
 > 📦 468.3 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -71,6 +69,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2024 18:42:56 UTC
+ Last Updated on 11/10/2024 18:42:31 UTC
 <!--END_SECTION:waka-->
 

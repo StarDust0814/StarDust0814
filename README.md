@@ -7,11 +7,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 468.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,6 +71,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:42:31 UTC
+ Last Updated on 12/10/2024 18:40:06 UTC
 <!--END_SECTION:waka-->
 

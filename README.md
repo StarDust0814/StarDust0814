@@ -5,8 +5,6 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -19,39 +17,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                300 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌆 Daytime                291 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌃 Evening                376 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Thursday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Friday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Sunday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -69,6 +34,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:40:09 UTC
+ Last Updated on 03/11/2024 18:40:45 UTC
 <!--END_SECTION:waka-->
 

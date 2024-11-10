@@ -5,8 +5,6 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -19,26 +17,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                300 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌆 Daytime                291 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌃 Evening                376 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -56,6 +34,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:40:23 UTC
+ Last Updated on 10/11/2024 18:39:18 UTC
 <!--END_SECTION:waka-->
 

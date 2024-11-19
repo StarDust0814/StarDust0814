@@ -13,8 +13,6 @@
 
 > 📦 468.3 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -29,11 +27,24 @@
 🌃 Evening                376 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
 🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Friday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Sunday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -58,6 +69,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StarDust0814/StarDust0814/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2024 18:45:49 UTC
+ Last Updated on 19/11/2024 18:43:51 UTC
 <!--END_SECTION:waka-->
 
